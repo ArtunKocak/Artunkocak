@@ -1,4 +1,4 @@
-### Hello, my name is Tolga Artun Koçak and I'm a Computer Science student at Bilkent University.
+### Hello, my name is Tolga Artun Koçak and I'm a Computer Science graduate from Bilkent University.
 
 <!--
 **ArtunKocak/Artunkocak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
